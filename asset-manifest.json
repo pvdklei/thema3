@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/thema3/static/css/main.95b35afc.chunk.css",
-    "main.js": "/thema3/static/js/main.ea87deb6.chunk.js",
-    "main.js.map": "/thema3/static/js/main.ea87deb6.chunk.js.map",
+    "main.css": "/thema3/static/css/main.4f6fecb3.chunk.css",
+    "main.js": "/thema3/static/js/main.84f2dbdd.chunk.js",
+    "main.js.map": "/thema3/static/js/main.84f2dbdd.chunk.js.map",
     "runtime-main.js": "/thema3/static/js/runtime-main.73c910f9.js",
     "runtime-main.js.map": "/thema3/static/js/runtime-main.73c910f9.js.map",
-    "static/js/2.63143588.chunk.js": "/thema3/static/js/2.63143588.chunk.js",
-    "static/js/2.63143588.chunk.js.map": "/thema3/static/js/2.63143588.chunk.js.map",
+    "static/js/2.a18ea6da.chunk.js": "/thema3/static/js/2.a18ea6da.chunk.js",
+    "static/js/2.a18ea6da.chunk.js.map": "/thema3/static/js/2.a18ea6da.chunk.js.map",
     "index.html": "/thema3/index.html",
-    "static/css/main.95b35afc.chunk.css.map": "/thema3/static/css/main.95b35afc.chunk.css.map",
-    "static/js/2.63143588.chunk.js.LICENSE.txt": "/thema3/static/js/2.63143588.chunk.js.LICENSE.txt",
+    "static/css/main.4f6fecb3.chunk.css.map": "/thema3/static/css/main.4f6fecb3.chunk.css.map",
+    "static/js/2.a18ea6da.chunk.js.LICENSE.txt": "/thema3/static/js/2.a18ea6da.chunk.js.LICENSE.txt",
     "static/media/pd.335011d1.jpg": "/thema3/static/media/pd.335011d1.jpg",
     "static/media/uva-logo.687e30c7.png": "/thema3/static/media/uva-logo.687e30c7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.73c910f9.js",
-    "static/js/2.63143588.chunk.js",
-    "static/css/main.95b35afc.chunk.css",
-    "static/js/main.ea87deb6.chunk.js"
+    "static/js/2.a18ea6da.chunk.js",
+    "static/css/main.4f6fecb3.chunk.css",
+    "static/js/main.84f2dbdd.chunk.js"
   ]
 }
